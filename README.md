@@ -13,7 +13,7 @@ Hello World in Python (see the 'helloworld.py' file)
 ![demo] (https://github.com/sho-portfolio/helloworld/blob/master/launch-gitpod.mov)
 (<iframe width="560" height="315" src="https://www.youtube.com/embed/xEd6JFqaLDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/embed/xEd6JFqaLDw)
+[![Alt text](launch-gitpod-img.png)](https://www.youtube.com/embed/xEd6JFqaLDw)
 
 
 
