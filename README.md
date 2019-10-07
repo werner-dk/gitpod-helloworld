@@ -4,7 +4,7 @@ Hello World in Python (see the 'helloworld.py' file)
 # run this code on repl.it
 * https://repl.it/@smtest/helloworld
 
-# run this code on gitpod (you'll need to login)
+# run this code on gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
 
 [![gitpod video](misc/launch-gitpod-img.png)](https://www.youtube.com/embed/xEd6JFqaLDw)
