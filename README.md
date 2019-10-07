@@ -1,5 +1,5 @@
 # helloworld
-Hello World in Python
+Hello World in Python (see the 'helloworld.py' file)
 
 # execute this code on gitpod (you'll need to login)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
