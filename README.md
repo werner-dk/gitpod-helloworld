@@ -5,7 +5,7 @@ Hello World in Python (see the 'helloworld.py' file)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
 
 [![gitpod video](launch-gitpod-img.png)](https://www.youtube.com/embed/xEd6JFqaLDw)
-[watch video demonstarting how]
+*[watch video demonstarting how]
 
 # execute this code on repl.it
 * https://repl.it/@smtest/helloworld
