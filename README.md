@@ -2,18 +2,14 @@
 Hello World in Python (see the 'helloworld.py' file)
 
 # execute this code on gitpod (you'll need to login)
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
-* once launched click on the terminal at the bottom right of the screen and type "python helloworld.py"
+*[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
+
+*[![gitpod video](launch-gitpod-img.png)](https://www.youtube.com/embed/xEd6JFqaLDw)
+
 
 # execute this code on repl.it
 * https://repl.it/@smtest/helloworld
 
-
-# test video
-![demo] (https://github.com/sho-portfolio/helloworld/blob/master/launch-gitpod.mov)
-(<iframe width="560" height="315" src="https://www.youtube.com/embed/xEd6JFqaLDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
-
-[![Alt text](launch-gitpod-img.png)](https://www.youtube.com/embed/xEd6JFqaLDw)
 
 
 
