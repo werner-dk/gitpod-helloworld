@@ -5,7 +5,7 @@ Hello World in Python
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sho-portfolio/helloworld)
 * once launched click on the terminal at the bottom right of the screen and type "python helloworld.py"
 
-# execute this code on repl.it (you'll need to login)
+# execute this code on repl.it
 * https://repl.it/@smtest/helloworld
 
 
