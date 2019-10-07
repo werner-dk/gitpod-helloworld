@@ -13,3 +13,5 @@ Hello World in Python (see the 'helloworld.py' file)
 # useful resources and a thank you to the authors
 * https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 * https://www.gitpod.io/blog/gitpodify/
+* https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c
+
