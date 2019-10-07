@@ -9,6 +9,9 @@ Hello World in Python (see the 'helloworld.py' file)
 * https://repl.it/@smtest/helloworld
 
 
+# test video
+![demo] (https://github.com/sho-portfolio/helloworld/blob/master/launch-gitpod.mov)
+
 
 # useful resources and a thank you to the authors
 * https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
