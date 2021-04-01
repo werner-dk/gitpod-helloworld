@@ -1,3 +1,4 @@
 tasks:
   - init: 'echo "Getting started"'
-    command: python helloworld.py
+    command: cat helloworld.py
+             python helloworld.py
