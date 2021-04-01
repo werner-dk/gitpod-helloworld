@@ -1,0 +1,3 @@
+tasks:
+  - init: 'echo "Getting started"'
+    command: python helloworld.py
